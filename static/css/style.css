@@ -1,0 +1,12 @@
+
+.card {
+    height: 400px; /* Your height here */
+    overflow: hidden;
+}
+
+
+
+.search-img {
+  height: 300px;
+  width: 300px;
+}

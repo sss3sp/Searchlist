@@ -16,7 +16,7 @@ kiwisolver==1.1.0
 matplotlib==3.1.2
 more-itertools==5.0.0
 ndg-httpsclient==0.5.1
-numpy==1.18.0
+numpy==1.22.0
 opencv-python==4.1.2.30
 panda==0.3.1
 pandas==0.25.3
